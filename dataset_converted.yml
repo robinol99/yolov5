@@ -79,7 +79,7 @@ names:
   77: teddy bear
   78: hair drier
   79: toothbrush
-path: yolov5\datasets #Please specify dataset root dir
-test: yolov5\datasets\test2014 #Please specify val folder
-train: yolov5\datasets\train2014 #Please specify train folder
-val: yolov5\datasets\val2014 #Please specify val folder
+path: Please specify dataset root dir
+test: Please specify val folder
+train: Please specify train folder
+val: Please specify val folder
