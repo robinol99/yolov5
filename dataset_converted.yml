@@ -79,7 +79,7 @@ names:
   77: teddy bear
   78: hair drier
   79: toothbrush
-path: Please specify dataset root dir
-test: Please specify val folder
-train: Please specify train folder
-val: Please specify val folder
+path: ./ #Please specify dataset root dir
+test: ./datasets/images/test2014 #Please specify val folder
+train: ./datasets/images/train2014 #Please specify train folder
+val: ./datasets/images/val2014 #Please specify val folder

@@ -1,0 +1,2 @@
+To train, run the following command in the terminal (and make necesssary changes to parameters):
+python3 train.py --img 640 --cfg yolov5s.yaml --hyp hyp.scratch-med.yaml --batch 32 --epochs 10 --data dataset_converted.yml --weights yolov5s.pt --workers 4 --name yolo_coco_dataset_testing
