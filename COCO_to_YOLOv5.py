@@ -3,13 +3,13 @@ from os.path import exists
 import yaml
 
 
-file_img_folder = "datasets/images/train2014"
-file_labels_folder = "datasets/labels/train2014"
-file_annotations = "datasets/annotations/instances_train2014.json"
+# file_img_folder = "datasets/images/train2014"
+# file_labels_folder = "datasets/labels/train2014"
+# file_annotations = "datasets/annotations/instances_train2014.json"
 
-# file_img_folder = "datasets/images/val2014"
-# file_labels_folder = "datasets/labels/val2014"
-# file_annotations = "datasets/annotations/instances_val2014.json"
+file_img_folder = "datasets/images/val2014"
+file_labels_folder = "datasets/labels/val2014"
+file_annotations = "datasets/annotations/instances_val2014.json"
 
 img_data = {}
 # image saved as dict object with fields: id, filename, width, height, boxes: [category id, box data]

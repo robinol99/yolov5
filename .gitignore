@@ -262,3 +262,5 @@ fabric.properties
 /datasets/train2014
 /datasets/val2014
 /datasets/labels
+
+/runs/detect/yolo_coco_dataset_inference3
